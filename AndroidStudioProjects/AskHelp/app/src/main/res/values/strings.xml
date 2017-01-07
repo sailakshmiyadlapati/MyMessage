@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AskHelp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="add_number_field">
+        PhoneNumber
+    </string>
+
+</resources>
